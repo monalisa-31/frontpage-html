@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+}
+.hedercontaint{
+    width: 100vw;
+    height: 10vh;
+    margin-top: -5;
+    margin-right: 9px;
+    background-color: rgb(1, 1, 19);
+}
+
+#searchbar{
+    width: 20vw;
+    height: 4vh;
+    margin-top: 15px;
+    margin-left: 30%;
+}
+
+#searchbtn{
+    width: 5vw;
+    height: 5vh;
+}
+.navbar{
+    width: 100vw;
+    height: 6vh;
+    margin-top: -5;
+    margin-right: 9px;
+    background-color: rgb(34, 34, 51);
+}
+.productcontntainer{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-left: 35px;
+    margin-top: -70px;
+}
+.box1,.box2,.box3,.box4,.box5,.box6,.box7,.box8{
+    width: 20vw;
+    height: 30vh;
+    border: 2px solid black;
+    margin-top: 50%;
+
+}
+.fotter{
+    height: 200px;
+    background-color: black;  
+    margin-top: 20px;
+}
